@@ -52,3 +52,10 @@ Key columns include:
 - The most frequent crime is **vehicle theft**.  
 - Crime rates peak in the *afternoon and evening hours*.
 
+<img width="1104" height="856" alt="image" src="https://github.com/user-attachments/assets/75057330-a510-41da-8bf0-99abd4f16ef7" />
+
+---
+
+<img width="913" height="651" alt="image" src="https://github.com/user-attachments/assets/c6ca03ff-b2f1-4f80-9c31-789d896bbde0" />
+
+
